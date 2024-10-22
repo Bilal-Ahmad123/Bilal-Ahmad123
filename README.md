@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">Bachelors of Software Engineer CUI'24, Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-ahmad123&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-ahmad123" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-ahmad123" alt="bilal-ahmad123" /></a> </p>
 
 - Hi, I'm currently working on [NCache](https://github.com/Alachisoft/NCache)
