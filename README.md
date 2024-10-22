@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/wajahatii/">
-    <img src="https://skillicons.dev/icons?i=js,express,nodejs,cs,firebase,mongodb,mysql,dotnet,react,ts,kotlin,reactnative&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,cs,firebase,mongodb,mysql,dotnet,react,ts,kotlin,react-native&perline=11" />
   </a>
 </p>
 
