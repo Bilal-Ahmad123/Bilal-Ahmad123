@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,express,nodejs,cs,firebase,mongodb,mysql,dotnet,react,ts,kotlin,react-native&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,cs,firebase,mongodb,mysql,dotnet,react,ts,kotlin&perline=11" />
   </a>
 </p>
 
