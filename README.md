@@ -7,7 +7,7 @@
 
 - Hi, I'm currently working on [NCache](https://github.com/Alachisoft/NCache)
 
-- 🌱 I’m currently learning **Angular, Cassandra, Jetpack Compose**
+- 🌱 I’m currently learning **Angular, Cassandra, Jetpack Compose, Kotlin Multi Platform**
 
 - 👨‍💻 All of my projects are available at [bilal-ahmad123](bilal-ahmad123)
 
